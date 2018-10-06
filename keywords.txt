@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map FourMatrix
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+FourMatrix	KEYWORD1
+TrueBool	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setOneLED		KEYWORD2
+setMultiLED		KEYWORD2
+setAllLED		KEYWORD2
+drawLine		KEYWORD2
+drawFullLine	KEYWORD2
+getBit			KEYWORD2
+setBit			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+HORIZONTAL	LITERAL1
+VERTICAL	LITERAL1
